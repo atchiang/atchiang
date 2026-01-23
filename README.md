@@ -1,5 +1,10 @@
 ## Hi there 👋
 My name is Aidan and this is my README!
+
+Here are three projects I'm currently learning from:
+- Learning to build a simple MERN Dashboard
+- Learning to build projects in R for my Data Sense and Storytelling class, STS115
+- A fun project using Unity, building the game Flappy Bird!
 <!--
 **atchiang/atchiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
